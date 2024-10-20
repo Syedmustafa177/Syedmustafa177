@@ -1,5 +1,6 @@
 ![MasterHead](
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ffull-stack-developer-background&psig=AOvVaw0SHHouAyHfPbRWOOR5C_qQ&ust=1729534231553000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj3x57HnYkDFQAAAAAdAAAAABAE
+<img align="Right"  width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-website-1812243436)">
+
 )
 <h1 align="center">Hi 👋, I'm Syed Mustafa Ali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
